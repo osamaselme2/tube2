@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ce5bcca4.css",
+    "main.js": "/static/js/main.2da3f5d1.js",
+    "static/media/fire-vods-logo.png": "/static/media/fire-vods-logo.cc290caf3a01c96a259e.png",
+    "service-worker.js": "/service-worker.js",
+    "index.html": "/index.html",
+    "main.ce5bcca4.css.map": "/static/css/main.ce5bcca4.css.map",
+    "main.2da3f5d1.js.map": "/static/js/main.2da3f5d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce5bcca4.css",
+    "static/js/main.2da3f5d1.js"
+  ]
+}
